@@ -986,20 +986,11 @@ Jika masalah masih berlanjut:
 
 ### Author
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-      <br />
-      <sub><b>Angelino Zuliano Hutapea</b></sub>
-      <br />
-      <sub>Full Stack Developer</sub>
-      <br />
-      <sub>Microservices Enthusiast</sub>
-    </td>
-  </tr>
-</table>
+**Defris Doloksaribu**  
+Computer Technology Student | Microservices & DevOps Enthusiast
 
+GitHub: [defrisdoloksaribu](https://github.com/defrisdoloksaribu)  
+Email: defrisdoloksaribu@gmail.com
 ### Cara Berkontribusi
 
 Kami sangat terbuka untuk kontribusi! Berikut langkahnya:
@@ -1037,16 +1028,12 @@ Kami sangat terbuka untuk kontribusi! Berikut langkahnya:
 
 ---
 
-## 📞 Kontak
+## ## 📞 Kontak
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | angelino.hutapea@example.com |
-| 💼 LinkedIn | [linkedin.com/in/angelino-hutapea](https://linkedin.com/in/angelino-hutapea) |
-| 🐙 GitHub | [github.com/angelino-hutapea](https://github.com/angelino-hutapea) |
-| 🌐 Portfolio | [angelino-hutapea.dev](https://angelino-hutapea.dev) |
-
----
+| 📧 Email | defrisdoloksaribu@gmail.com |
+| 🐙 GitHub | [github.com/defrisdoloksaribu](https://github.com/defrisdoloksaribu) |
 
 ## 📄 Lisensi
 
@@ -1113,12 +1100,7 @@ Jika proyek ini bermanfaat, jangan lupa:
 📢 **Share ke teman-teman developer**  
 
 ---
-
-<p align="center">
-  <strong>Built with ❤️ using Microservices Architecture and Docker</strong>
-  <br/>
-  <sub>© 2024 Angelino Zuliano Hutapea. All rights reserved.</sub>
-</p>
+© 2026 Defris Doloksaribu. All rights reserved.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Node.js-339933?style=for-the-badge&logo=node.js" />
